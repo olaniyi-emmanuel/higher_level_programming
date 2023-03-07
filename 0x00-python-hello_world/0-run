@@ -1,4 +1,2 @@
-#!/bin/bash#!
-export PYFILE=main.py
-chmod u+x main.py
-./main.py
+#!/bin/bash
+python3 $PYFILE
